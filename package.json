@@ -12,5 +12,6 @@
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
 	"author": "Michal",
-	"description": "FCC project about package managment with npm"
+	"description": "FCC project about package managment with npm",
+	"keywords": [ "freecodecamp", "json", "git" ]
 }
