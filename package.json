@@ -13,5 +13,5 @@
 	},
 	"author": "Michal",
 	"description": "FCC project about package managment with npm",
-	"keywords": [ "freecodecamp", "json", "git" ]
+	"keywords": [ "freecodecamp", "json", "git" ],"license": "MIT"
 }
